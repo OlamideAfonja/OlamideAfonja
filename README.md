@@ -1,22 +1,22 @@
-Hello, I'm Olamide..........
+Hello, I'm Olamide.......... <br>
 
 <details>
 
  <summary>I’m interested in ...</summary >
-  Javascript - React, Angular, Next.js, Node,
-  HTML,
-  CSS AND Preprocessor-SASS,
-  SVG,
-  JAVA,
-  JQUERY,
-  WORDPRESS,
+  Javascript - React, Angular, Next.js, Node, <br>
+  HTML, <br>
+  CSS AND Preprocessor-SASS, <br>
+  SVG, <br>
+  JAVA, <br>
+  JQUERY, <br>
+  WORDPRESS, <br>
   
-  And ...
-  Some C.
+  And ... <br>
+  Some C. <br>
   
  </details>
   
- I’m currently learning WEB and App Development as the first stages in my thirsty tech appetite
+ I’m currently learning WEB and App Development as the first stages in my thirsty tech appetite. <br>
  I’m looking to collaborate on WEB Development, App Development, and other technologies - Machine Learning and Blockchain
 
 <details>
