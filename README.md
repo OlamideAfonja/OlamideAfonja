@@ -50,7 +50,6 @@ I'm a **multidisciplinary Software Engineer** with 3+ years of hands-on experien
 ### 🖥️ Frontend Engineering
 
 - **Stack:** React, HTML5, CSS3, SASS/SCSS, Responsive Web Development
-- **Foundations:** Pre-Degree Computer Science — *Distinction*, Yaba College of Technology
 
 ---
 
