@@ -106,3 +106,6 @@ I'm open to projects and collaborations across engineering, design, and creative
 Feel free to reach out 🤙🏻
 
 *Till we meet again* 🤝👋🏻
+
+
+[![Olamide's GitHub stats](https://github-readme-stats.vercel.app/api?username=olamideafonja&show_icons=true&theme=transparent)](https://github.com/OlamideAfonja/github-readme-stats)
