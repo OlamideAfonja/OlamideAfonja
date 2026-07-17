@@ -64,7 +64,7 @@ I'm a **multidisciplinary Software Engineer** with 3+ years of hands-on experien
 
 ---
 
-## 🎵 Sound & Music Engineering
+## 🎵 Music & Sound Engineering
 
 **Tech & Sound Engineer** — 5+ years in volunteer music productions and live performances.
 
